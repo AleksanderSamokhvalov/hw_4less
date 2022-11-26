@@ -1,0 +1,15 @@
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\bin\Debug\net6.0\hw_task_29.exe
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\bin\Debug\net6.0\hw_task_29.deps.json
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\bin\Debug\net6.0\hw_task_29.runtimeconfig.json
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\bin\Debug\net6.0\hw_task_29.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\bin\Debug\net6.0\hw_task_29.pdb
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.csproj.AssemblyReference.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.AssemblyInfoInputs.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.AssemblyInfo.cs
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.csproj.CoreCompileInputs.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\refint\hw_task_29.dll
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.pdb
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\hw_task_29.genruntimeconfig.cache
+E:\Учеба 2022-2023\Менеджер IT - GB\Знакомство с языками программирования\Practic_4\Home_work\hw_task_29\obj\Debug\net6.0\ref\hw_task_29.dll
